@@ -1,4 +1,4 @@
-## GitHub Docs <!-- omit in toc -->
+## GitHub Docs <!-- Lobo-m4  -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
@@ -7,7 +7,7 @@ GitHub's Docs team works on pre-production content in a private repo that regula
 In this article:
 
 - [Contributing](#contributing)
-- [READMEs](#readmes)
+- [READMEs](# lobom7)
 - [License](#license)
 
 ## Contributing
